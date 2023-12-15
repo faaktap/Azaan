@@ -1,0 +1,477 @@
+%FDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/FDF <<
+/F (/M/GD/F_ZML/Azaan/x2.pdf)
+/Fields [<<
+/T (Above1kV)
+/V /EarthLeakageCD
+>> <<
+/T (AltPwrConnect1)
+/V /EarthLeakageCD
+>> <<
+/T (AltPwrConnect2)
+/V /Generator
+>> <<
+/T (AlternatePWInstalled)
+/V /EarthLeakageCD
+>> <<
+/T (AnnexPages)
+/V (0)
+>> <<
+/T (BuildingName)
+/V (N/A)
+>> <<
+/T (COCNo)
+/V (2049581)
+>> <<
+/T (CertificateType)
+/V /SupplemetaryCertficate
+>> <<
+/T (CharacteristicsVoltage)
+/V /Other#20Voltage
+>> <<
+/T (CommentsNotCovered)
+/V (      n/a)
+>> <<
+/T (DeclarationID)
+/V (800219 5139 082)
+>> <<
+/T (District)
+/V (Cape Town)
+>> <<
+/T (ECAddress)
+/V ( 7 Broodboom Street, Kuils River)
+>> <<
+/T (ECCellNo)
+/V (082 969 8842)
+>> <<
+/T (ECEmail)
+/V (info.acelectrical@gmail.com)
+>> <<
+/T (ECFaxNo)
+/V (N/A)
+>>
+<<
+/T (ECID)
+/V (800219 5139 082)
+>> <<
+/T (ECName)
+/V (A.C. van Wyk)
+>> <<
+/T (ECRegDate)
+/V (24.01.2022)
+>> <<
+/T (ECRegNo)
+/V (WC01766)
+>> <<
+/T (ECSigDate)
+/V (5.12.2022)
+>> <<
+/T (ECTelNo)
+/V (082 969 8842)
+>> <<
+/T (ElecInstallSystem)
+/V /TemporaryInstallation
+>> <<
+/T (ElecInstallType)
+/V /CommonArea
+>> <<
+/T (ErfNo)
+/V (3234)
+>> <<
+/T (FreqCharacteristics)
+/V /50#20Hz
+>> <<
+/T (GPSCoords)
+/V (N/A)
+>> <<
+/T (IssuedOn)
+/V (N/A)
+>> <<
+/T (LightningProtection)
+/V /EarthLeakageCD
+>> <<
+/T (MainSwitchType)
+/V /SwitchDisconnector
+>> <<
+/T (NumberOfPhases)
+/V /One
+>> <<
+/T (OneExistingDwelling)
+/V (1 x EXISTING DWELLING ONLY)
+>>
+<<
+/T (PhaseRotation)
+/V /Clockwise
+>> <<
+/T (PhysAdr)
+/V (46 WATSONIA STREET)
+>> <<
+/T (PoleNo)
+/V (N/A)
+>> <<
+/T (RELTCurrent)
+/V /EarthLeakageCD
+>> <<
+/T (RadNewIns)
+/V /c
+>> <<
+/T (RadioComponntsCorrect)
+/V /No
+>> <<
+/T (RadioConductorsCorrect)
+/V /Yes
+>> <<
+/T (RadioMainSwitchType)
+/V /EarthLeakageCD
+>> <<
+/T (RadioMarkedLabeled)
+/V /NA
+>> <<
+/T (RadioPhaseRotation)
+/V /NA
+>> <<
+/T (RadioSection43)
+/V /Yes
+>> <<
+/T (RadioTest13)
+/V /1
+>> <<
+/T (RadioTest14)
+/V /Correct
+>> <<
+/T (RadioTest14PhaseRotation)
+/V /Correct
+>> <<
+/T (RadioTest1Complaint)
+/V /Complaint
+>> <<
+/T (RadioTest2Complaint)
+/V /Complaint
+>>
+<<
+/T (RadioTest4Earth)
+/V /Main
+>> <<
+/T (RadioTest5Neutral)
+/V /Main
+>> <<
+/T (RadioTest6CalcMeas)
+/V /Measured
+>> <<
+/T (RadioTest9PSCC)
+/V /Main
+>> <<
+/T (RadioTypeOfRegistration)
+/V /Installation#20Electrician
+>> <<
+/T (RegPersAddress)
+/V (7 Broodboom Street, Kuils River)
+>> <<
+/T (RegPersCellNo)
+/V (082 969 8842)
+>> <<
+/T (RegPersDate)
+/V (18/02/2014)
+>> <<
+/T (RegPersEmail)
+/V (info.acelectrical@gmail.com)
+>> <<
+/T (RegPersFaxNo)
+/V (N/A)
+>> <<
+/T (RegPersName)
+/V (AC van Wyk)
+>> <<
+/T (RegPersRegisNo)
+/V ( 03790)
+>> <<
+/T (RegPersTelNo)
+/V (082 969 8842)
+>> <<
+/T (SigDate)
+/V (05.12.2022)
+>> <<
+/T (SpecialEI)
+/V /EarthLeakageCD
+>> <<
+/T (Suburb)
+/V (Blue Downs)
+>>
+<<
+/T (SuppNo)
+/V (N/A)
+>> <<
+/T (SurgeProtection)
+/V /EarthLeakageCD
+>> <<
+/T (TRACExistCnt)
+/V ( )
+>> <<
+/T (TRACNewCnt)
+/V ( )
+>> <<
+/T (TRAltExistCnt)
+/V ( )
+>> <<
+/T (TRAltNewCnt)
+/V ( )
+>> <<
+/T (TRBoreExistCnt)
+/V ( )
+>> <<
+/T (TRBoreNewCnt)
+/V ( )
+>> <<
+/T (TRChkDC)
+/V /Off
+>> <<
+/T (TRChkIT)
+/V /Off
+>> <<
+/T (TRChkPPhotoAfter)
+/V /Yes
+>> <<
+/T (TRChkPPhotoBefore)
+/V /Yes
+>> <<
+/T (TRChkSEIF)
+/V /Yes
+>> <<
+/T (TRChkTest12Correct)
+/V /Yes
+>> <<
+/T (TRChkTest15Correct)
+/V /Yes
+>> <<
+/T (TRChkTest3NA)
+/V /Off
+>>
+<<
+/T (TRChkTest4NA)
+/V /Off
+>> <<
+/T (TRChkTest5NA)
+/V /Off
+>> <<
+/T (TRCookExistCnt)
+/V (1)
+>> <<
+/T (TRCookNewCnt)
+/V (0)
+>> <<
+/T (TRCurRate)
+/V (60)
+>> <<
+/T (TRDBSupplyNo)
+/V (N/A)
+>> <<
+/T (TRDateIssued)
+/V (5.12.2022)
+>> <<
+/T (TRELPAllExistYesNo)
+/V (Yes)
+>> <<
+/T (TRELPAllNewYesNo)
+/V (No)
+>> <<
+/T (TRELPPartExistYesNo)
+/V (Yes)
+>> <<
+/T (TRELPPartNewYesNo)
+/V (No)
+>> <<
+/T (TRFanExistCnt)
+/V ( )
+>> <<
+/T (TRFanNewCnt)
+/V ( )
+>> <<
+/T (TRGeyserExistCnt)
+/V (1)
+>> <<
+/T (TRGeyserNewCnt)
+/V (0)
+>> <<
+/T (TRHeatExistCnt)
+/V ( )
+>>
+<<
+/T (TRHeatNewCnt)
+/V ( )
+>> <<
+/T (TRLighCircExistCnt)
+/V (1)
+>> <<
+/T (TRLighCircNewCnt)
+/V ( )
+>> <<
+/T (TRLighPointExistCnt)
+/V (9)
+>> <<
+/T (TRLighPointNewCnt)
+/V ( )
+>> <<
+/T (TRNumOfPoles)
+/V (12)
+>> <<
+/T (TROCOtherDescription1)
+/V ( )
+>> <<
+/T (TROCOtherDescription2)
+/V ( )
+>> <<
+/T (TROCOtherExistCnt)
+/V ( )
+>> <<
+/T (TROCOtherExistCnt2)
+/V ( )
+>> <<
+/T (TROCOtherNewCnt1)
+/V ( )
+>> <<
+/T (TROCOtherNewCnt2)
+/V ( )
+>> <<
+/T (TROtherDescription)
+/V ( )
+>> <<
+/T (TROtherExistCnt)
+/V ( )
+>> <<
+/T (TROtherNewCnt)
+/V ( )
+>> <<
+/T (TRPBELExistCnt)
+/V ( )
+>>
+<<
+/T (TRPBELNewCnt)
+/V ( )
+>> <<
+/T (TRPoolNewCnt)
+/V (0)
+>> <<
+/T (TRSckAmps)
+/V (3)
+>> <<
+/T (TRSocOutCExistCnt)
+/V (3)
+>> <<
+/T (TRSocOutCNewCnt)
+/V ( )
+>> <<
+/T (TRSocOutExistCnt)
+/V (5)
+>> <<
+/T (TRSocOutNewCnt)
+/V ( )
+>> <<
+/T (TRTCBellExistCnt)
+/V ( )
+>> <<
+/T (TRTCBellNewCnt)
+/V ( )
+>> <<
+/T (TRTCLightExistCnt)
+/V ( )
+>> <<
+/T (TRTCLightNewCnt)
+/V ( )
+>> <<
+/T (TRTCOtherExistCnt)
+/V ( )
+>> <<
+/T (TRTCOtherNewCnt)
+/V ( )
+>> <<
+/T (TRTest1Instrument)
+/V (K6011)
+>> <<
+/T (TRTest1Reading)
+/V (0,2)
+>> <<
+/T (TRTest2Instrument)
+/V (K6011)
+>>
+<<
+/T (TRTest2Reading)
+/V (0,2)
+>> <<
+/T (TRTest3Instrument)
+/V ( )
+>> <<
+/T (TRTest3Reading)
+/V (N/A)
+>> <<
+/T (TRTest4Instrument)
+/V (K6011)
+>> <<
+/T (TRTest4Reading)
+/V (0.01)
+>> <<
+/T (TRTest5Instrument)
+/V (K6011)
+>> <<
+/T (TRTest5Reading)
+/V (0.77)
+>> <<
+/T (TRTest6Instrument)
+/V (K6011)
+>> <<
+/T (TRTest6Reading)
+/V (12)
+>> <<
+/T (TRTest7Instrument)
+/V (TBM3030)
+>> <<
+/T (TRTest7Reading)
+/V (infinity)
+>> <<
+/T (TRTest8Instrument)
+/V (K6011)
+>> <<
+/T (TRTest8Reading)
+/V (239)
+>> <<
+/T (TRTest9B)
+/V (230)
+>> <<
+/T (TRTest9Instrument)
+/V (TBM3030)
+>> <<
+/T (TRTestAInstrument)
+/V (TBM3030)
+>>
+<<
+/T (TRTestBInstrument)
+/V (TELITLB)
+>> <<
+/T (TRTestBReading)
+/V (25)
+>> <<
+/T (TRTestS5OthComment)
+/V (N/A)
+>> <<
+/T (TRVOtherHZ)
+/V (66)
+>> <<
+/T (TRVOtherV)
+/V (12)
+>> <<
+/T (initCertNo)
+/V (N/A)
+>>]
+/ID [<5253B24F6E78D26B75D1704FD9781D14> <5253B24F6E78D26B75D1704FD9781D14>]
+/UF (/M/GD/F_ZML/Azaan/x2.pdf)
+>>
+/Type /Catalog
+>>
+endobj
+trailer
+<<
+/Root 1 0 R
+>>
+%%EOF
