@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xfdf xmlns="http://ns.adobe.com/xfdf/" xml:space="preserve"
+><f href="Coc -Azaan - Radio - 1612KTabOrder.pdf"
+/><ids original="5253B24F6E78D26B75D1704FD9781D14" modified="5253B24F6E78D26B75D1704FD9781D14"
+/><fields
+><field name="RadioTest14"
+><value
+>Correct</value
+></field
+><field name="TRDateIssued"
+><value
+>5.12.2022</value
+></field
+><field name="TRSocOutExistCnt"
+><value
+>5</value
+></field
+><field name="TRTCLightNewCnt"
+><value
+> </value
+></field
+><field name="RegPersName"
+><value
+>AC van Wyk</value
+></field
+><field name="District"
+><value
+>Cape Town</value
+></field
+><field name="ECAddress"
+><value
+> 7 Broodboom Street, Kuils River</value
+></field
+><field name="RegPersEmail"
+><value
+>info.acelectrical@gmail.com</value
+></field
+><field name="ECFaxNo"
+><value
+>N/A</value
+></field
+><field name="GPSCoords"
+><value
+>N/A</value
+></field
+><field name="ECCellNo"
+><value
+>082 969 8842</value
+></field
+><field name="RadioTest1Complaint"
+><value
+>Complaint</value
+></field
+><field name="PoleNo"
+><value
+>N/A</value
+></field
+><field name="RadioTest13"
+><value
+>1</value
+></field
+><field name="RadioTest9PSCC"
+><value
+>Main</value
+></field
+><field name="TRTestBInstrument"
+><value
+>TELITLB</value
+></field
+><field name="TRChkTest12Correct"
+><value
+>Yes</value
+></field
+><field name="RadioSection43"
+><value
+>Yes</value
+></field
+><field name="PhysAdr"
+><value
+>46 WATSONIA STREET</value
+></field
+><field name="RegPersRegisNo"
+><value
+> 03790</value
+></field
+><field name="RadioMarkedLabeled"
+><value
+>NA</value
+></field
+><field name="RadioComponntsCorrect"
+><value
+>No</value
+></field
+><field name="DeclarationID"
+><value
+>800219 5139 082</value
+></field
+><field name="ECName"
+><value
+>A.C. van Wyk</value
+></field
+><field name="SigDate"
+><value
+>05.12.2022</value
+></field
+><field name="RadNewIns"
+><value
+>c</value
+></field
+><field name="TRTest4Instrument"
+><value
+>K6011</value
+></field
+><field name="RadioConductorsCorrect"
+><value
+>Yes</value
+></field
+><field name="RadioTypeOfRegistration"
+><value
+>Master Installation Electrician</value
+></field
+><field name="RadioTest2Complaint"
+><value
+>Complaint</value
+></field
+><field name="TRTestS5OthComment"
+><value
+>N/A</value
+></field
+><field name="CertificateType"
+><value
+>SupplemetaryCertficate</value
+></field
+><field name="TRChkTest15Correct"
+><value
+>Yes</value
+></field
+><field name="RadioTest4Earth"
+><value
+>Main</value
+></field
+><field name="ElecInstallType"
+><value
+>TemporaryInstallation</value
+></field
+><field name="COCNo"
+><value
+>2049586</value
+></field
+><field name="TRSocOutNewCnt"
+><value
+> </value
+></field
+><field name="TRTestAInstrument"
+><value
+>TBM3030</value
+></field
+><field name="TRTest7Reading"
+><value
+>infinity</value
+></field
+><field name="TRChkTest3NA"
+><value
+>Off</value
+></field
+><field name="TRTest8Reading"
+><value
+>239</value
+></field
+><field name="TRTest4Reading"
+><value
+>0.01</value
+></field
+><field name="TRTest5Reading"
+><value
+>0.77</value
+></field
+><field name="RegPersDate"
+><value
+>18/02/2014</value
+></field
+><field name="BuildingName"
+><value
+>N/A</value
+></field
+><field name="RadioTest5Neutral"
+><value
+>Main</value
+></field
+><field name="TRTest1Instrument"
+><value
+>K6011</value
+></field
+><field name="AnnexPages"
+><value
+>0</value
+></field
+><field name="TRLighPointExistCnt"
+><value
+>9</value
+></field
+><field name="TRTest5Instrument"
+><value
+>K6011</value
+></field
+><field name="TRTest6Reading"
+><value
+>12</value
+></field
+><field name="TRTest9B"
+><value
+>230</value
+></field
+><field name="TRELPPartExistYesNo"
+><value
+>Yes</value
+></field
+><field name="TRChkTest4NA"
+><value
+>Off</value
+></field
+><field name="TRFanNewCnt"
+><value
+> </value
+></field
+><field name="TRBoreExistCnt"
+><value
+> </value
+></field
+><field name="TRTest9Instrument"
+><value
+>TBM3030</value
+></field
+><field name="TRELPAllExistYesNo"
+><value
+>Yes</value
+></field
+><field name="TRTest7Instrument"
+><value
+>TBM3030</value
+></field
+><field name="CommentsNotCovered"
+><value
+>      n/a</value
+></field
+><field name="TRELPPartNewYesNo"
+><value
+>No</value
+></field
+><field name="TRTest2Reading"
+><value
+>0,2</value
+></field
+><field name="TRTest3Instrument"
+><value
+> </value
+></field
+><field name="TRChkTest5NA"
+><value
+>Off</value
+></field
+><field name="TRTest8Instrument"
+><value
+>K6011</value
+></field
+><field name="TRChkSEIF"
+><value
+>Yes</value
+></field
+><field name="TRTestBReading"
+><value
+>25</value
+></field
+><field name="TRBoreNewCnt"
+><value
+> </value
+></field
+><field name="TRACExistCnt"
+><value
+> </value
+></field
+><field name="TRACNewCnt"
+><value
+> </value
+></field
+><field name="TRTCBellNewCnt"
+><value
+> </value
+></field
+><field name="RadioTest6CalcMeas"
+><value
+>Measured</value
+></field
+><field name="TRTest6Instrument"
+><value
+>K6011</value
+></field
+><field name="OneExistingDwelling"
+><value
+>1 x EXISTING DWELLING ONLY</value
+></field
+><field name="TRChkPPhotoBefore"
+><value
+>Yes</value
+></field
+><field name="TRHeatExistCnt"
+><value
+> </value
+></field
+><field name="TRAltExistCnt"
+><value
+> </value
+></field
+><field name="TRPBELExistCnt"
+><value
+> </value
+></field
+><field name="TRSocOutCNewCnt"
+><value
+> </value
+></field
+><field name="TRPBELNewCnt"
+><value
+> </value
+></field
+><field name="TRTCLightExistCnt"
+><value
+> </value
+></field
+><field name="TRELPAllNewYesNo"
+><value
+>No</value
+></field
+><field name="TRTest1Reading"
+><value
+>0,2</value
+></field
+><field name="TROtherNewCnt"
+><value
+> </value
+></field
+><field name="TRAltNewCnt"
+><value
+> </value
+></field
+><field name="TRFanExistCnt"
+><value
+> </value
+></field
+><field name="TRTCOtherExistCnt"
+><value
+> </value
+></field
+><field name="TRTCOtherNewCnt"
+><value
+> </value
+></field
+><field name="TRTest2Instrument"
+><value
+>K6011</value
+></field
+><field name="TRChkPPhotoAfter"
+><value
+>Yes</value
+></field
+><field name="TROCOtherNewCnt"
+><value
+> </value
+></field
+><field name="TRHeatNewCnt"
+><value
+> </value
+></field
+><field name="TROCOtherExistCnt"
+><value
+> </value
+></field
+><field name="TRLighCircExistCnt"
+><value
+>1</value
+></field
+><field name="ECID"
+><value
+>800219 5139 082</value
+></field
+><field name="TRLighCircNewCnt"
+><value
+> </value
+></field
+><field name="ECEmail"
+><value
+>info.acelectrical@gmail.com</value
+></field
+><field name="TROtherExistCnt"
+><value
+> </value
+></field
+><field name="TRTCBellExistCnt"
+><value
+> </value
+></field
+><field name="TRSckAmps"
+><value
+>3</value
+></field
+><field name="ECRegDate"
+><value
+>24.01.2022</value
+></field
+><field name="TRLighPointNewCnt"
+><value
+> </value
+></field
+><field name="TRNumOfPoles"
+><value
+>12</value
+></field
+><field name="TRCurRate"
+><value
+>60</value
+></field
+><field name="TRGeyserExistCnt"
+><value
+>1</value
+></field
+><field name="RegPersTelNo"
+><value
+>082 969 8842</value
+></field
+><field name="RegPersAddress"
+><value
+>7 Broodboom Street, Kuils River</value
+></field
+><field name="RegPersFaxNo"
+><value
+>N/A</value
+></field
+><field name="TRGeyserNewCnt"
+><value
+>0</value
+></field
+><field name="ErfNo"
+><value
+>3234</value
+></field
+><field name="TRCookNewCnt"
+><value
+>0</value
+></field
+><field name="TRChkIT"
+><value
+>Off</value
+></field
+><field name="ECTelNo"
+><value
+>082 969 8842</value
+></field
+><field name="TRPoolNewCnt"
+><value
+>0</value
+></field
+><field name="SuppNo"
+><value
+>N/A</value
+></field
+><field name="ECSigDate"
+><value
+>5.12.2022</value
+></field
+><field name="IssuedOn"
+><value
+>N/A</value
+></field
+><field name="TRSocOutCExistCnt"
+><value
+>3</value
+></field
+><field name="TRDBSupplyNo"
+><value
+>N/A</value
+></field
+><field name="TRCookExistCnt"
+><value
+>1</value
+></field
+><field name="TRTest3Reading"
+><value
+>N/A</value
+></field
+><field name="ECRegNo"
+><value
+>WC01766</value
+></field
+><field name="Suburb"
+><value
+>Blue Downs</value
+></field
+><field name="RegPersCellNo"
+><value
+>082 969 8842</value
+></field
+><field name="initCertNo"
+><value
+>N/A</value
+></field
+><field name="ElecInstallSystem"
+><value
+>TemporaryInstallation</value
+></field
+><field name="CharacteristicsVoltage"
+><value
+>TemporaryInstallation</value
+></field
+><field name="RadioMainSwitchType"
+><value
+>EarthLeakageCD</value
+></field
+><field name="TRChkDC"
+><value
+>Off</value
+></field
+><field name="RadioPhaseRotation"
+><value
+>Clockwise</value
+></field
+><field name="TRVOtherHZ"
+><value
+>66</value
+></field
+><field name="FreqCharacteristics"
+><value
+>DC</value
+></field
+><field name="RELTCurrent"
+><value
+>EarthLeakageCD</value
+></field
+><field name="SurgeProtection"
+><value
+>EarthLeakageCD</value
+></field
+><field name="LightningProtection"
+><value
+>EarthLeakageCD</value
+></field
+><field name="AlternatePWInstalled"
+><value
+>EarthLeakageCD</value
+></field
+><field name="MainSwitchType"
+><value
+>EarthLeakageCD</value
+></field
+><field name="PhaseRotation"
+><value
+>Clockwise</value
+></field
+><field name="AltPwrConnect1"
+><value
+>EarthLeakageCD</value
+></field
+><field name="AltPwrConnect2"
+><value
+>EarthLeakageCD</value
+></field
+><field name="SpecialEI"
+><value
+>EarthLeakageCD</value
+></field
+><field name="Above1kV"
+><value
+>EarthLeakageCD</value
+></field
+></fields
+></xfdf>

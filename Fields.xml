@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fields xmlns:xfdf="http://ns.adobe.com/xfdf-transition/"
+>
+<RadioTest14>Correct</RadioTest14>
+<TRDateIssued>5.12.2022</TRDateIssued>
+<TRSocOutExistCnt>5</TRSocOutExistCnt>
+<TRTCLightNewCnt> </TRTCLightNewCnt>
+<RegPersName>AC van Wyk</RegPersName>
+<District>Cape Town</District>
+<ECAddress> 7 Broodboom Street, Kuils River</ECAddress>
+<RegPersEmail>info.acelectrical@gmail.com</RegPersEmail>
+<ECFaxNo>N/A</ECFaxNo>
+<GPSCoords>N/A</GPSCoords>
+<ECCellNo>082 969 8842</ECCellNo>
+<RadioTest1Complaint>Complaint</RadioTest1Complaint>
+<PoleNo>N/A</PoleNo>
+<RadioTest13>1</RadioTest13>
+<RadioTest9PSCC>Main</RadioTest9PSCC>
+<TRTestBInstrument>TELITLB</TRTestBInstrument>
+<TRChkTest12Correct>Yes</TRChkTest12Correct>
+<RadioSection43>Yes</RadioSection43>
+<PhysAdr>46 WATSONIA STREET</PhysAdr>
+<RegPersRegisNo> 03790</RegPersRegisNo>
+<RadioMarkedLabeled>NA</RadioMarkedLabeled>
+<RadioComponntsCorrect>No</RadioComponntsCorrect>
+<DeclarationID>800219 5139 082</DeclarationID>
+<ECName>A.C. van Wyk</ECName>
+<SigDate>05.12.2022</SigDate>
+<RadNewIns>c</RadNewIns>
+<TRTest4Instrument>K6011</TRTest4Instrument>
+<RadioConductorsCorrect>Yes</RadioConductorsCorrect>
+<RadioTypeOfRegistration>Master Installation Electrician</RadioTypeOfRegistration>
+<RadioTest2Complaint>Complaint</RadioTest2Complaint>
+<TRTestS5OthComment>N/A</TRTestS5OthComment>
+<CertificateType>SupplemetaryCertficate</CertificateType>
+<TRChkTest15Correct>Yes</TRChkTest15Correct>
+<RadioTest4Earth>Main</RadioTest4Earth>
+<ElecInstallType>TemporaryInstallation</ElecInstallType>
+<COCNo>2049586</COCNo>
+<TRSocOutNewCnt> </TRSocOutNewCnt>
+<TRTestAInstrument>TBM3030</TRTestAInstrument>
+<TRTest7Reading>infinity</TRTest7Reading>
+<TRChkTest3NA>Off</TRChkTest3NA>
+<TRTest8Reading>239</TRTest8Reading>
+<TRTest4Reading>0.01</TRTest4Reading>
+<TRTest5Reading>0.77</TRTest5Reading>
+<RegPersDate>18/02/2014</RegPersDate>
+<BuildingName>N/A</BuildingName>
+<RadioTest5Neutral>Main</RadioTest5Neutral>
+<TRTest1Instrument>K6011</TRTest1Instrument>
+<AnnexPages>0</AnnexPages>
+<TRLighPointExistCnt>9</TRLighPointExistCnt>
+<TRTest5Instrument>K6011</TRTest5Instrument>
+<TRTest6Reading>12</TRTest6Reading>
+<TRTest9B>230</TRTest9B>
+<TRELPPartExistYesNo>Yes</TRELPPartExistYesNo>
+<TRChkTest4NA>Off</TRChkTest4NA>
+<TRFanNewCnt> </TRFanNewCnt>
+<TRBoreExistCnt> </TRBoreExistCnt>
+<TRTest9Instrument>TBM3030</TRTest9Instrument>
+<TRELPAllExistYesNo>Yes</TRELPAllExistYesNo>
+<TRTest7Instrument>TBM3030</TRTest7Instrument>
+<CommentsNotCovered>      n/a</CommentsNotCovered>
+<TRELPPartNewYesNo>No</TRELPPartNewYesNo>
+<TRTest2Reading>0,2</TRTest2Reading>
+<TRTest3Instrument> </TRTest3Instrument>
+<TRChkTest5NA>Off</TRChkTest5NA>
+<TRTest8Instrument>K6011</TRTest8Instrument>
+<TRChkSEIF>Yes</TRChkSEIF>
+<TRTestBReading>25</TRTestBReading>
+<TRBoreNewCnt> </TRBoreNewCnt>
+<TRACExistCnt> </TRACExistCnt>
+<TRACNewCnt> </TRACNewCnt>
+<TRTCBellNewCnt> </TRTCBellNewCnt>
+<RadioTest6CalcMeas>Measured</RadioTest6CalcMeas>
+<TRTest6Instrument>K6011</TRTest6Instrument>
+<OneExistingDwelling>1 x EXISTING DWELLING ONLY</OneExistingDwelling>
+<TRChkPPhotoBefore>Yes</TRChkPPhotoBefore>
+<TRHeatExistCnt> </TRHeatExistCnt>
+<TRAltExistCnt> </TRAltExistCnt>
+<TRPBELExistCnt> </TRPBELExistCnt>
+<TRSocOutCNewCnt> </TRSocOutCNewCnt>
+<TRPBELNewCnt> </TRPBELNewCnt>
+<TRTCLightExistCnt> </TRTCLightExistCnt>
+<TRELPAllNewYesNo>No</TRELPAllNewYesNo>
+<TRTest1Reading>0,2</TRTest1Reading>
+<TROtherNewCnt> </TROtherNewCnt>
+<TRAltNewCnt> </TRAltNewCnt>
+<TRFanExistCnt> </TRFanExistCnt>
+<TRTCOtherExistCnt> </TRTCOtherExistCnt>
+<TRTCOtherNewCnt> </TRTCOtherNewCnt>
+<TRTest2Instrument>K6011</TRTest2Instrument>
+<TRChkPPhotoAfter>Yes</TRChkPPhotoAfter>
+<TROCOtherNewCnt> </TROCOtherNewCnt>
+<TRHeatNewCnt> </TRHeatNewCnt>
+<TROCOtherExistCnt> </TROCOtherExistCnt>
+<TRLighCircExistCnt>1</TRLighCircExistCnt>
+<ECID>800219 5139 082</ECID>
+<TRLighCircNewCnt> </TRLighCircNewCnt>
+<ECEmail>info.acelectrical@gmail.com</ECEmail>
+<TROtherExistCnt> </TROtherExistCnt>
+<TRTCBellExistCnt> </TRTCBellExistCnt>
+<TRSckAmps>3</TRSckAmps>
+<ECRegDate>24.01.2022</ECRegDate>
+<TRLighPointNewCnt> </TRLighPointNewCnt>
+<TRNumOfPoles>12</TRNumOfPoles>
+<TRCurRate>60</TRCurRate>
+<TRGeyserExistCnt>1</TRGeyserExistCnt>
+<RegPersTelNo>082 969 8842</RegPersTelNo>
+<RegPersAddress>7 Broodboom Street, Kuils River</RegPersAddress>
+<RegPersFaxNo>N/A</RegPersFaxNo>
+<TRGeyserNewCnt>0</TRGeyserNewCnt>
+<ErfNo>3234</ErfNo>
+<TRCookNewCnt>0</TRCookNewCnt>
+<TRChkIT>Off</TRChkIT>
+<ECTelNo>082 969 8842</ECTelNo>
+<TRPoolNewCnt>0</TRPoolNewCnt>
+<SuppNo>N/A</SuppNo>
+<ECSigDate>5.12.2022</ECSigDate>
+<IssuedOn>N/A</IssuedOn>
+<TRSocOutCExistCnt>3</TRSocOutCExistCnt>
+<TRDBSupplyNo>N/A</TRDBSupplyNo>
+<TRCookExistCnt>1</TRCookExistCnt>
+<TRTest3Reading>N/A</TRTest3Reading>
+<ECRegNo>WC01766</ECRegNo>
+<Suburb>Blue Downs</Suburb>
+<RegPersCellNo>082 969 8842</RegPersCellNo>
+<initCertNo>N/A</initCertNo>
+<ElecInstallSystem>TemporaryInstallation</ElecInstallSystem>
+<CharacteristicsVoltage>TemporaryInstallation</CharacteristicsVoltage>
+<RadioMainSwitchType>EarthLeakageCD</RadioMainSwitchType>
+<TRChkDC>Off</TRChkDC>
+<RadioPhaseRotation>Clockwise</RadioPhaseRotation>
+<TRVOtherHZ>66</TRVOtherHZ>
+<FreqCharacteristics>DC</FreqCharacteristics>
+<RELTCurrent>EarthLeakageCD</RELTCurrent>
+<SurgeProtection>EarthLeakageCD</SurgeProtection>
+<LightningProtection>EarthLeakageCD</LightningProtection>
+<AlternatePWInstalled>EarthLeakageCD</AlternatePWInstalled>
+<MainSwitchType>EarthLeakageCD</MainSwitchType>
+<PhaseRotation>Clockwise</PhaseRotation>
+<AltPwrConnect1>EarthLeakageCD</AltPwrConnect1>
+<AltPwrConnect2>EarthLeakageCD</AltPwrConnect2>
+<SpecialEI>EarthLeakageCD</SpecialEI>
+<Above1kV>EarthLeakageCD</Above1kV>
+</fields>
